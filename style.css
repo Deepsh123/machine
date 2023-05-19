@@ -1,0 +1,20 @@
+#header {
+    background-color: lightgrey;
+}
+
+#main {
+    background-color: #bccbb9;
+    height: 90%;
+}
+h3 {
+    text-shadow: 4px 4px 8px grey;
+    text-align: center;
+    position: sticky;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
